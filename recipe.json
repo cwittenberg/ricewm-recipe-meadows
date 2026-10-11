@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "scope": "appearance",
+  "id": "meadows",
+  "title": "Meadows",
+  "theme": "agent-meadows.theme",
+  "presentation": {
+    "appearance.windows.rounded": "true",
+    "appearance.windows.compact_titlebar": "false",
+    "appearance.windows.control_box_position": "Right",
+    "appearance.windows.control_layout": "Theme Default",
+    "appearance.windows.titlebar_end": "Rounded",
+    "appearance.windows.decoration_artwork": "Theme Default",
+    "appearance.windows.shape": "Theme Default",
+    "appearance.controls.button_style": "Theme Default",
+    "appearance.windows.inactive_translucency": "false",
+    "appearance.frosted_ice.enabled": "false",
+    "dock.top_bar.transparent": "false"
+  },
+  "workspace": 0,
+  "layout": "Default",
+  "arrangement": "Split",
+  "applications": [],
+  "wallpaper": {
+    "id": "wp-upload-9ebfefea6d4a468cb1cf1128e01e5ce5",
+    "name": "Emerald Day",
+    "source": "/root/.cache/ricewm/theme-assets/ea4d6fa92e27a86149a8cd15d391ee2d122aa5adf656105e47cc2522c2cf3fb4.webp",
+    "type": "image",
+    "mode": "Crop",
+    "sha256": "ea4d6fa92e27a86149a8cd15d391ee2d122aa5adf656105e47cc2522c2cf3fb4",
+    "bytes": 334778,
+    "width": 1672,
+    "height": 941,
+    "attribution": {
+      "source": "https://account.env.now/wallpapers/evidence/wp-upload-9ebfefea6d4a468cb1cf1128e01e5ce5",
+      "author": "RiceWM · AI-generated",
+      "license": "CC0-1.0"
+    }
+  }
+}
