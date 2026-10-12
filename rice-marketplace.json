@@ -1,14 +1,14 @@
 {
   "schema": "ricewm.recipe-marketplace/v1",
   "name": "Meadows",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A shareable RiceWM appearance recipe.",
   "license": "MIT",
   "credits": "RiceWM · AI-generated · CC0-1.0 · https://account.env.now/wallpapers/evidence/wp-upload-9ebfefea6d4a468cb1cf1128e01e5ce5",
   "artifact": {
     "path": "meadows.rice.json",
-    "bytes": 451234,
-    "sha256": "391b53e0f5630ad50acf27e9dde85e00dfcc0712b583afffe229b3d427998bce"
+    "sha256": "499f03d406e74141f7cdc9a3a25ebd60e03e4e8cda242b449777420f6443ee25",
+    "bytes": 452369
   },
   "media": [
     {
