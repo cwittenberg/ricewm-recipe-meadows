@@ -2,5 +2,5 @@
   "schema": "ricewm.shared-rice/v1",
   "kind": "recipe",
   "package": "meadows.rice.json",
-  "sha256": "6541d854f7d334448c9c69627d89c70b3a2bb3486a8ba26f34520e42a5566777"
+  "sha256": "d7481e8ca421dad46e2f37317c362f7c688e5ac03b2137af3632056e5d2fb8af"
 }
