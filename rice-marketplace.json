@@ -1,37 +1,37 @@
 {
   "schema": "ricewm.recipe-marketplace/v1",
-  "name": "Meadows",
-  "version": "1.0.1",
+  "name": "Azure Explorer Crisp",
+  "version": "1.0.2",
   "summary": "A shareable RiceWM appearance recipe.",
   "license": "MIT",
   "credits": "RiceWM · AI-generated · CC0-1.0 · https://account.env.now/wallpapers/evidence/wp-upload-9ebfefea6d4a468cb1cf1128e01e5ce5",
   "artifact": {
     "path": "meadows.rice.json",
-    "sha256": "499f03d406e74141f7cdc9a3a25ebd60e03e4e8cda242b449777420f6443ee25",
-    "bytes": 452369
+    "bytes": 939934,
+    "sha256": "6541d854f7d334448c9c69627d89c70b3a2bb3486a8ba26f34520e42a5566777"
   },
   "media": [
     {
       "role": "icon",
       "path": "media/icon.webp",
-      "alt": "Meadows recipe icon",
+      "alt": "Azure Explorer Crisp recipe icon",
       "width": 256,
       "height": 256,
       "license": "MIT",
-      "credits": "Original RiceWM recipe sharing icon.",
-      "sha256": "a205706660ca9cc7ba4682efc5c8c5e14624396bddd6850ade6f0389a5ed5223",
-      "bytes": 1182
+      "credits": "Original RiceWM sharing icon.",
+      "sha256": "75b10d0e11cb872a3e268f444bd34382a7987d6887919d6368237e9d306f9680",
+      "bytes": 3460
     },
     {
       "role": "screenshot",
       "path": "media/screenshot-1.webp",
-      "alt": "Meadows — desktop capture with sharing dialogs and menus omitted.",
+      "alt": "Azure Explorer Crisp — desktop capture with sharing dialogs and menus omitted.",
       "width": 1864,
       "height": 899,
       "license": "Depicted assets retain their original licences",
       "credits": "RiceWM desktop capture. Wallpaper: RiceWM · AI-generated · CC0-1.0 · https://account.env.now/wallpapers/evidence/wp-upload-9ebfefea6d4a468cb1cf1128e01e5ce5",
-      "sha256": "fbd0367677b8e27c5d404e045368130621a44175cc84eac13e4b97df3c53f459",
-      "bytes": 274108
+      "sha256": "05a9484076ce44854a1ab6985b92f5313146ba08022a4b5c2c7893793b3a9355",
+      "bytes": 1662904
     }
   ]
 }
