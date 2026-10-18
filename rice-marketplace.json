@@ -1,37 +1,37 @@
 {
   "schema": "ricewm.recipe-marketplace/v1",
-  "name": "Azure Explorer Crisp",
-  "version": "1.0.4",
-  "summary": "Windows XP alike Rechipe",
+  "name": "Meadows",
+  "version": "1.0.5",
+  "summary": "Meadows - a Windows XP alike Recipe",
   "license": "MIT",
-  "credits": "Anonymous · RiceWM · AI-generated · CC0-1.0 · https://account.env.now/wallpapers/evidence/wp-upload-9ebfefea6d4a468cb1cf1128e01e5ce5",
+  "credits": "Anonymous",
   "artifact": {
     "path": "meadows.rice.json",
-    "bytes": 937976,
-    "sha256": "d7481e8ca421dad46e2f37317c362f7c688e5ac03b2137af3632056e5d2fb8af"
+    "bytes": 926387,
+    "sha256": "80e25bc67826b81d374ac73b80dba5bc756577610da1b77536ca389bccef4bfd"
   },
   "media": [
     {
       "role": "icon",
       "path": "media/icon.webp",
-      "alt": "Azure Explorer Crisp recipe icon",
+      "alt": "Meadows recipe icon",
       "width": 256,
       "height": 256,
       "license": "MIT",
       "credits": "Original RiceWM sharing icon.",
-      "sha256": "75b10d0e11cb872a3e268f444bd34382a7987d6887919d6368237e9d306f9680",
-      "bytes": 3460
+      "sha256": "cc16c0802bf6a62a4f9961470f16487888d8239c9d782e5e859a91e206b4cfd1",
+      "bytes": 3598
     },
     {
       "role": "screenshot",
       "path": "media/screenshot-1.webp",
-      "alt": "Azure Explorer Crisp — desktop capture with sharing dialogs and menus omitted.",
+      "alt": "Meadows — desktop capture with sharing dialogs and menus omitted.",
       "width": 1864,
       "height": 899,
       "license": "Depicted assets retain their original licences",
-      "credits": "RiceWM desktop capture. Wallpaper: RiceWM · AI-generated · CC0-1.0 · https://account.env.now/wallpapers/evidence/wp-upload-9ebfefea6d4a468cb1cf1128e01e5ce5",
-      "sha256": "717dc447becd064e46bddfa3f799b08958f59249574522648fd1fe3e115b3cff",
-      "bytes": 1658972
+      "credits": "RiceWM desktop capture. Wallpaper and other artwork credits are retained in the recipe.",
+      "sha256": "d793340dd9d11eb7c93830acf7b4e065079f446b67992db0337eff219ca5f77a",
+      "bytes": 1654318
     }
   ]
 }
