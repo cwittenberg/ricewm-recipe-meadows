@@ -1,10 +1,10 @@
 {
   "schema": "ricewm.recipe-marketplace/v1",
   "name": "Azure Explorer Crisp",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Windows XP alike Rechipe",
   "license": "MIT",
-  "credits": "Anonymous",
+  "credits": "Anonymous · RiceWM · AI-generated · CC0-1.0 · https://account.env.now/wallpapers/evidence/wp-upload-9ebfefea6d4a468cb1cf1128e01e5ce5",
   "artifact": {
     "path": "meadows.rice.json",
     "bytes": 937976,
